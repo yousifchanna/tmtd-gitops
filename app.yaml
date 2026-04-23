@@ -7,7 +7,7 @@ metadata:
 
 spec:
   source:
-    repoURL: https://github.com/YOUR_USERNAME/tmtd-gitops.git
+    repoURL: https://github.com/yousifchanna/tmtd-gitops/blob/main/app.yaml
     targetRevision: main
     path: .
 
