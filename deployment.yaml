@@ -29,7 +29,7 @@ spec:
 
       containers:
       - name: test
-        image: 192.168.1.133/tmtd/tmtd-test:7
+        image: 192.168.1.133/tmtd/tmtd-test:8
 
         ports:
         - containerPort: 80
